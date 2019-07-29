@@ -1,0 +1,12 @@
+{
+  "name":               "node_beginner_pxxxxx",
+  "main":               "./index",
+  "description":        "beginner in node",
+  
+  "version":            "0.1.0",
+  "dependencies":
+    {
+      "cfenv":          "*",
+	  "http":           "*"
+    }
+  }
